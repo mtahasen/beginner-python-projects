@@ -20,20 +20,6 @@ The goal of this repository is to:
 
 - Python 3.x
 
-## 🚀 How to Run
-
-Make sure Python is installed. To run a project:
-
-```bash
-python filename.py
-```
-
-Example:
-
-```bash
-python band_name_generator.py
-```
-
 ## 🤝 Contributing
 
 This repository is mainly for personal learning, but feel free to fork it and build upon it if you like!
