@@ -31,7 +31,7 @@ python filename.py
 Example:
 
 ```bash
-python band-name-generator.py
+python band_name_generator.py
 ```
 
 ## 🤝 Contributing
