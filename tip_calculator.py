@@ -7,4 +7,5 @@ tip_value = bill * tip / 100
 total_bill = bill + tip_value
 personal_payment = f"{(total_bill / people):.2f}"
 
-print(f"Each person should pay: {personal_payment}$")
+print(f"Each person should pay: ${personal_payment}")
+
