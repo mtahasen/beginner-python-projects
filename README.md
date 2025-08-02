@@ -14,6 +14,10 @@ The goal of this repository is to:
 - 🎸 **Band Name Generator**  
   A simple program that suggests a band name based on user input.
 
+- 💶 **Tip Calculator**  
+A simple calculator app that makes it easier to split the bill with people around you after shopping or dining activities.
+
+
 *(More projects coming soon!)*
 
 ## 🛠 Technologies Used
