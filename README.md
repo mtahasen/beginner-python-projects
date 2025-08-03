@@ -12,11 +12,14 @@ The goal of this repository is to:
 ## 📁 Projects Included
 
 - 🎸 **Band Name Generator**  
-  A simple program that suggests a band name based on user input.
-
+  A simple program that suggests a band name based on user input.    
+  ~ *Working With Variables in Python to Manage Data*
+  
 - 💶 **Tip Calculator**  
-A simple calculator app that makes it easier to split the bill with people around you after shopping or dining activities.
+  A simple calculator app that makes it easier to split the bill with people around you after shopping or dining activities.
 
+- 🏝️ **Treasure Island Game**  
+  A user-friendly treasure hunting game designed with multiple decision paths for an interactive experience.
 
 *(More projects coming soon!)*
 
