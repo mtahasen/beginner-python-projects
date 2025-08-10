@@ -20,6 +20,9 @@ The goal of this repository is to:
 - 🏝️ **Treasure Island Game**  
   A user-friendly treasure hunting game designed with multiple decision paths for an interactive experience.
 
+- ✊ **Rock Paper Scissors Game**  
+  A fun and interactive game where the player competes against the computer in the classic hand game of rock, paper, and scissors.
+
 *(More projects coming soon!)*
 
 ## 🛠 Technologies Used
